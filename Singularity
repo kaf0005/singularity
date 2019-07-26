@@ -60,6 +60,6 @@ From: nvidia/cuda:10.1-devel-ubuntu18.04
     # BRER run scripts
     git clone https://github.com/kaf0005/run_brer.git
     cd run_brer/
-    git checkout train_parameter
+    git checkout train_master
     python3 setup.py install
 
